@@ -67,6 +67,10 @@ The exemplary output:
  <img src="https://i.imgur.com/eoAwcw7.png" alt="Project logo"></a>
 </p>
 
+## 🛠️ Todo
+
+- add control startup for TorIpChanger container in docker-compose
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
